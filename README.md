@@ -1,2 +1,2 @@
 "# TermProject" 
-dslkvnksadl
+마스터
